@@ -1,0 +1,10 @@
+.openai/
+.sites-runtime/
+node_modules/
+.env
+.env.*
+!.env.example
+dist/portrait.png
+*.zip
+.DS_Store
+Thumbs.db
